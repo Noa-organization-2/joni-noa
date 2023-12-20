@@ -1,4 +1,4 @@
-joni!
+joni
 ====
 
 [![Maven Central](https://img.shields.io/maven-central/v/org.jruby.joni/joni.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jruby.joni%22)
